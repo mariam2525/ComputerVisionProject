@@ -1,1 +1,2 @@
 # ComputerVisionProject
+This project implements and adapts the Semantic Diversity Learning (SDL) framework for Zero-Shot Multi-Label Classification (ZSMLC) on the MIRFlickr25K dataset. The model is based on a TResNet-M backbone and uses FastText embeddings to align image features with semantic label representations. The objective is to predict multiple labels for each image, including unseen labels (zero-shot), leveraging semantic relationships between labels.
