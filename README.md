@@ -18,8 +18,8 @@ MIRFlickr25K: A dataset of 25,000 Flickr images with user-generated multi-label 
 Annotations: Processed from raw text files, resulting in a structured CSV file (mirflickr25k_annotations_clean.csv).
 
 The dataset is split as follows:
-- Seen labels: 30 labels (80% of total labels).
-- Unseen labels: 8 labels (20% of total labels).
+- Seen labels: 19 labels (80% of total labels).
+- Unseen labels: 5 labels (20% of total labels).
 - Images used for training contain only seen labels.
 
 Evaluation includes:
